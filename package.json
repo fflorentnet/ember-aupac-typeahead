@@ -16,9 +16,12 @@
     "url": "git+https://github.com/aupac/ember-aupac-typeahead.git"
   },
   "dependencies": {
-    "bower": "^1.8.2",
+    "bootstrap": "^3.3.7",
+    "corejs-typeahead": "^1.2.1",
     "ember-cli-babel": "^5.1.7",
-    "ember-cli-htmlbars": "^2.0.1"
+    "ember-cli-htmlbars": "^2.0.1",
+    "faker": "^4.1.0",
+    "pretender": "^1.6.1"
   },
   "bugs": {
     "url": "https://github.com/aupac/ember-aupac-typeahead/issues"
